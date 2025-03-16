@@ -2,9 +2,14 @@
 
 Este é um projeto básico que implementa um keylogger utilizando a biblioteca `pynput` em Python. O programa registra as teclas pressionadas em um arquivo de texto especificado.
 
-## ⚠️ Aviso Importante
+## Aviso Legal
 
-**Este software é fornecido somente para fins educacionais e/ou uso pessoal. O autor não se responsabiliza por quaisquer ações que utilizem este software de forma inadequada ou para atividades ilegais. Por favor, use este código de forma ética e responsável.**
+Este código é destinado **somente para uso pessoal** e **para fins educacionais**. Ele deve ser utilizado **somente em dispositivos que você tem permissão para monitorar**. Qualquer uso indevido do código, como monitorar ou registrar as atividades de outras pessoas sem seu consentimento, **é estritamente proibido** e pode ser **ilegal**, de acordo com as leis de privacidade e proteção de dados pessoais, como a **Lei Geral de Proteção de Dados (LGPD)**.
+
+**Eu não me responsabilizo por qualquer uso indevido do código**, e **qualquer pessoa que use este código é totalmente responsável por suas ações**. O uso deste código em dispositivos de outras pessoas sem permissão pode resultar em **violações de privacidade** e **consequências legais**.
+
+**Use com responsabilidade.**
+
 
 ## Requisitos
 
